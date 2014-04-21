@@ -1,0 +1,7 @@
+{
+  "name": "ember-node",
+  "version": "0.1.0",
+  "dependencies": {
+    "ember": "~1.5.0"
+  }
+}
