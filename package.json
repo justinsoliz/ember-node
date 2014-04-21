@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/justinsoliz/ember-node.git"
   },
-  "author": "Justin Soliz <justinsoliz@gmail.com>",
+  "author": "Justin Soliz",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/justinsoliz/ember-node/issues"
