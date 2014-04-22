@@ -1,8 +1,8 @@
 {
   "name": "ember-node",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "description": "ember node",
-  "main": "bower_components/ember/ember.js",
+  "main": "ember-node.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
